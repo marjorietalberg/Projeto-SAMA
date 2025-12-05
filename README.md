@@ -1,6 +1,7 @@
 # 🐾 SAMA - Sistema de Adoção e Meio Ambiente
 
-![SAMA Banner](https://via.placeholder.com/800x200.png?text=SAMA)
+<img src="https://github.com/user-attachments/assets/64272352-d22b-48ec-9788-e60106bd39a1" alt="SAMA Banner" width="1349" height="524" />
+
 
 SAMA é uma plataforma municipal que une cuidado com animais e gestão ambiental. Aqui, ONGs podem cadastrar pets para doação, cidadãos podem adotar e acompanhar todo o processo de forma segura, e solicitações de árvores ou plantas são analisadas e entregues pelo SAMA diretamente na residência do solicitante. 🌱🐶
 
@@ -18,7 +19,7 @@ SAMA é uma plataforma municipal que une cuidado com animais e gestão ambiental
 
 ---
 
-## 📖 Sobre o Projeto
+##  Sobre o Projeto
 SAMA foi desenvolvido para melhorar a gestão de recursos municipais, promovendo **adoção de pets e cuidado ambiental**. O sistema permite:
 
 - ONGs cadastrarem pets disponíveis para doação 🐕  
@@ -29,7 +30,7 @@ O foco do projeto é **transparência, segurança e facilidade de uso**, garanti
 
 ---
 
-## ⚡ Funcionalidades
+##  Funcionalidades
 - ✅ Cadastro e login para ONGs e cidadãos  
 - ✅ Cadastro de pets para doação  
 - ✅ Solicitação e acompanhamento de adoção  
@@ -39,7 +40,7 @@ O foco do projeto é **transparência, segurança e facilidade de uso**, garanti
 
 ---
 
-## 🚀 Como Usar
+##  Como Usar
 1. **Cadastro/Login:** Crie sua conta como ONG ou cidadão.  
 2. **Cadastro de Pets:** ONGs cadastrarem pets disponíveis para adoção.  
 3. **Adoção de Pets:** Usuários solicitam adoções e acompanham o processo.  
@@ -47,14 +48,14 @@ O foco do projeto é **transparência, segurança e facilidade de uso**, garanti
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 - **Frontend:** React.js, CSS  
 - **Backend e Banco de Dados:** MongoDB  
 - **Testes e API:** Postman  
 
 ---
 
-## 📊 Fluxo de Doação e Adoção
+##  Fluxo de Doação e Adoção
 1. ONG cadastra o pet disponível 🐾  
 2. Usuário solicita a adoção ✉️  
 3. ONG aprova ou recusa a solicitação ✅❌  
@@ -63,7 +64,7 @@ O foco do projeto é **transparência, segurança e facilidade de uso**, garanti
 
 ---
 
-## 🌳 Solicitação e Entrega de Árvores
+##  Solicitação e Entrega de Árvores
 1. Usuário solicita uma árvore ou planta 🌱  
 2. O SAMA analisa o pedido para garantir viabilidade e adequação 🌿  
 3. O SAMA realiza a entrega da árvore ou planta diretamente na residência do solicitante 🚚  
@@ -71,7 +72,7 @@ O foco do projeto é **transparência, segurança e facilidade de uso**, garanti
 
 ---
 
-## 🤝 Contribuição
+##  Contribuição
 Contribuições são bem-vindas!  
 - Abra **issues** para bugs ou melhorias  
 - Crie **pull requests** para novas funcionalidades  
@@ -79,11 +80,11 @@ Contribuições são bem-vindas!
 
 ---
 
-## 📬 Contato
+## Contato
 - **E-mail:** [marjorietalberg1@gmail.com](mailto:marjorietalberg1@gmail.com)  
 - **Prefeitura / SAMA:** [Site da Prefeitura](#)  
 
 ---
 
-### 🌟 Nota
+###  Nota
 Este projeto é voltado para **uso municipal**, garantindo que pets sejam adotados de forma segura e que árvores e plantas sejam entregues corretamente aos cidadãos.
