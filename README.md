@@ -81,6 +81,14 @@ Contribuições são bem-vindas!
 
 ---
 ## Explicando passo a passo sobre o projeto
+
+<img src="https://github.com/user-attachments/assets/aedc9cfa-83a4-4593-a37a-9c63dcd57b6a" width="300" />
+<img src="https://github.com/user-attachments/assets/180da9e9-0e44-40be-b20f-7c33c641c974" width="300" />
+<img src="https://github.com/user-attachments/assets/91759fc6-20ec-4613-b031-1a65c766d5cd" width="300" />
+<img src="https://github.com/user-attachments/assets/f681160e-69de-4f63-819e-6c7239c25b38" width="300" />
+
+
+
 ## Contato
 - **E-mail:** [marjorietalberg1@gmail.com](mailto:marjorietalberg1@gmail.com)  
 - **Prefeitura / SAMA:** [Site da Prefeitura](#)  
