@@ -174,9 +174,33 @@ O SAMA conta com um sistema de **login e cadastro** para garantir segurança e c
 
 O sistema garante que todas as interações sejam **seguras e organizadas**, permitindo um gerenciamento eficiente de pets e árvores.  
 
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ddd09a05-b80c-47c2-bf2e-c433734f62a1" width="300" />
+</p>
+
+---
+
+## 🔐 Página de Login
+
+A página de login permite que usuários acessem suas contas de forma **segura e rápida**.  
+
+### Funcionalidades
+- Autenticação de usuários cadastrados (Cidadão ou ONG)  
+- Redirecionamento para a Home após login bem-sucedido  
+- Acesso às funcionalidades de:  
+  - Solicitação de adoção de pets  
+  - Solicitação de árvores  
+  - Visualização de detalhes completos de pets e árvores  
+  - Acompanhamento do status das solicitações  
+
+### Segurança
+- Login protegido por **e-mail e senha**  
+- Garantia de que apenas usuários autenticados possam realizar solicitações  
+
+O sistema de login é a porta de entrada para todas as funcionalidades do SAMA, mantendo o controle e a segurança do processo.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/941d1430-c4f7-46ae-b717-ae34380f0f30" width="300" />
 </p>
 
 
