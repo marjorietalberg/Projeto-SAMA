@@ -1,6 +1,5 @@
 # 🐾 SAMA - Sistema de Adoção e Meio Ambiente
 
-<img src="https://github.com/user-attachments/assets/64272352-d22b-48ec-9788-e60106bd39a1" alt="SAMA Banner" width="1349" height="524" />
 
 
 SAMA é uma plataforma municipal que une cuidado com animais e gestão ambiental. Aqui, ONGs podem cadastrar pets para doação, cidadãos podem adotar e acompanhar todo o processo de forma segura, e solicitações de árvores ou plantas são analisadas e entregues pelo SAMA diretamente na residência do solicitante. 🌱🐶
@@ -80,12 +79,42 @@ Contribuições são bem-vindas!
 - Documente seu código de forma clara e objetiva
 
 ---
-## Explicando passo a passo sobre o projeto
 
-<img src="https://github.com/user-attachments/assets/aedc9cfa-83a4-4593-a37a-9c63dcd57b6a" width="300" />
-<img src="https://github.com/user-attachments/assets/180da9e9-0e44-40be-b20f-7c33c641c974" width="300" />
-<img src="https://github.com/user-attachments/assets/91759fc6-20ec-4613-b031-1a65c766d5cd" width="300" />
-<img src="https://github.com/user-attachments/assets/f681160e-69de-4f63-819e-6c7239c25b38" width="300" />
+## Passo a Passo – Adoção de Pets
+
+A página **Home** é o ponto de entrada do site, apresentando pets disponíveis, já adotados e funcionalidades principais:
+
+### Pets Disponíveis e Adotados
+- Cada pet é exibido em **cards** com foto, nome e informações básicas.  
+- Ao clicar em **"Mais Detalhes"**, é possível acessar idade, raça, gênero, histórico e cuidados necessários.  
+
+### Missão, Impacto e Como Ajudar
+- **Missão:** explica o propósito do projeto e a importância da adoção responsável.  
+- **Impacto:** mostra dados sobre adoções realizadas e resultados alcançados.  
+- **Como Ajudar:** instruções sobre como contribuir, seja adotando, doando ou se voluntariando.  
+
+### Sistema de Pesquisa
+- Busca por **nome**, **gênero** ou **raça** para encontrar rapidamente o pet desejado.
+  
+### FAQ
+- Sessão com perguntas frequentes sobre o processo de adoção e cuidados com pets.  
+
+### Rodapé
+- Contém **mapa de localização** e informações de contato da instituição.  
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ce9d93c8-c266-453b-8ff0-20a78cb13d6b" width="300" />
+  <img src="https://github.com/user-attachments/assets/180da9e9-0e44-40be-b20f-7c33c641c974" width="300" />
+  <img src="https://github.com/user-attachments/assets/4521e5cf-2b3f-4432-a182-ad2ba8f00d7a" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f681160e-69de-4f63-819e-6c7239c25b38" width="300" />
+  <img src="https://github.com/user-attachments/assets/5d5ba38e-a9b5-4b0f-aae9-acf570b2b82c" width="300" />
+  <img src="https://github.com/user-attachments/assets/abbd24f4-87ab-4664-84e9-ea42e2e3a9ce" width="300" />
+</p>
+
 
 
 
