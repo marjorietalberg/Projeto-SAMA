@@ -1,6 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=120&section=header"/>
+</p>
+
 # 🐾 SAMA - Sistema de Adoção e Meio Ambiente
-
-
 
 SAMA é uma plataforma municipal que une cuidado com animais e gestão ambiental. Aqui, ONGs podem cadastrar pets para doação, cidadãos podem adotar e acompanhar todo o processo de forma segura, e solicitações de árvores ou plantas são analisadas e entregues pelo SAMA diretamente na residência do solicitante. 🌱🐶
 
@@ -115,7 +117,48 @@ A página **Home** é o ponto de entrada do site, apresentando pets disponíveis
   <img src="https://github.com/user-attachments/assets/abbd24f4-87ab-4664-84e9-ea42e2e3a9ce" width="300" />
 </p>
 
+---
 
+## 🌳  Solicitação de Árvores
+
+A seção de **árvores** do SAMA segue o mesmo modelo da seção de pets, permitindo que usuários explorem árvores disponíveis, solicitem a entrega e acessem informações detalhadas de cada espécie.
+
+### Árvores Disponíveis
+- As árvores são exibidas  na página Home
+
+- Ao clicar em **"Mais Detalhes"**, o usuário acessa informações completas de cada árvore, incluindo:  
+  - Descrição detalhada  
+  - Localização  
+  - Cuidados necessários  
+  - Observações adicionais  
+
+### Solicitação de Árvores
+- Para solicitar uma árvore, é necessário **estar logado**.  
+- O formulário de solicitação pede:  
+  - Nome do solicitante  
+  - Endereço de entrega  
+  - Espécie e quantidade desejada  
+
+- O SAMA analisa cada solicitação para garantir viabilidade e organização da entrega.
+
+### Funcionalidades
+- **Sistema de login** para segurança do usuário.  
+- **Cards** com informações resumidas das árvores.  
+- **Detalhes completos** ao clicar em cada árvore.  
+- **FAQ** com dúvidas frequentes sobre espécies, cuidados e solicitações.  
+- **Rodapé** com mapa de localização e informações de contato da instituição.  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/149bb999-06bf-4729-8370-46cfeaaae22b" width="300" />
+  <img src="https://github.com/user-attachments/assets/60a3d3da-9115-486c-983b-16775dde0f43" width="300" />
+  <img src="https://github.com/user-attachments/assets/e61a0765-e54f-4061-9c38-a47176f68659" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/061b1702-4b7f-4e1e-9367-197eba50f642" width="300" />
+  <img src="https://github.com/user-attachments/assets/7c437e4c-5243-4a11-aefa-6f592b1724e3" width="300" />
+  <img src="https://github.com/user-attachments/assets/c61ec5cc-f7f6-4c58-8ba6-0ae5dc7099e9" width="300" />
+</p>
 
 
 ## Contato
