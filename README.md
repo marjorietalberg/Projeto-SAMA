@@ -160,6 +160,25 @@ A seção de **árvores** do SAMA segue o mesmo modelo da seção de pets, permi
   <img src="https://github.com/user-attachments/assets/c61ec5cc-f7f6-4c58-8ba6-0ae5dc7099e9" width="300" />
 </p>
 
+---
+## 📝 Cadastro e Login
+
+O SAMA conta com um sistema de **login e cadastro** para garantir segurança e controle de acesso.  
+
+- Usuários precisam criar uma conta para solicitar adoção de pets ou árvores.  
+- Cada cadastro solicita informações básicas como **nome, e-mail e senha**.  
+- Usuários autenticados podem acessar todas as funcionalidades do sistema, incluindo:  
+  - Solicitar adoção de pets ou árvores  
+  - Visualizar detalhes completos de cada pet ou árvore  
+  - Acompanhar o status das solicitações  
+
+O sistema garante que todas as interações sejam **seguras e organizadas**, permitindo um gerenciamento eficiente de pets e árvores.  
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ddd09a05-b80c-47c2-bf2e-c433734f62a1" width="300" />
+</p>
+
 
 ## Contato
 - **E-mail:** [marjorietalberg1@gmail.com](mailto:marjorietalberg1@gmail.com)  
