@@ -12,10 +12,11 @@ SAMA é uma plataforma municipal que une cuidado com animais e gestão ambiental
 2. [Funcionalidades](#-funcionalidades)  
 3. [Como Usar](#-como-usar)  
 4. [Tecnologias Utilizadas](#-tecnologias-utilizadas)  
-5. [Fluxo de Doação e Adoção](#-fluxo-de-doação-e-adoção)  
-6. [Solicitação e Entrega de Árvores](#-solicitação-e-entrega-de-árvores)  
-7. [Contribuição](#-contribuição)  
-8. [Contato](#-contato)  
+5. [Fluxo de Doação e Adoção](#-fluxo-de-doação-e-adoção)
+6. [Passo a passo do projeto](#-Explicando-passo-a-passo-sobre-o-projeto)
+7. [Solicitação e Entrega de Árvores](#-solicitação-e-entrega-de-árvores)  
+8. [Contribuição](#-contribuição)  
+9. [Contato](#-contato)  
 
 ---
 
@@ -79,7 +80,7 @@ Contribuições são bem-vindas!
 - Documente seu código de forma clara e objetiva
 
 ---
-
+## Explicando passo a passo sobre o projeto
 ## Contato
 - **E-mail:** [marjorietalberg1@gmail.com](mailto:marjorietalberg1@gmail.com)  
 - **Prefeitura / SAMA:** [Site da Prefeitura](#)  
