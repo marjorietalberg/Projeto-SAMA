@@ -206,6 +206,30 @@ O sistema de login é a porta de entrada para todas as funcionalidades do SAMA, 
 </p>
 
 
+## Após o login
+
+Após realizar o login, o usuário passa a visualizar duas novas opções na barra de navegação: Minhas Adoções e Meus Pets.
+
+### Minhas Adoções
+
+Esta página permite acompanhar todas as solicitações de adoção feitas pelo usuário, apresentando: **O status atualizado do processo (em análise, em andamento ou concluído)**
+
+As informações do pet solicitado: Os dados do responsável que disponibilizou o pet para adoção
+
+O objetivo é oferecer transparência e controle sobre cada etapa da adoção.
+
+### Meus Pets
+
+Nesta página, o usuário tem acesso a todos os pets que já foram adotados por ele, podendo visualizar:
+Foto, nome e raça
+
+Informações gerais do pet
+
+Data da adoção
+
+Essa seção funciona como um histórico pessoal de adoções concluídas.
+
+
 ## Contato
 - **E-mail:** [marjorietalberg1@gmail.com](mailto:marjorietalberg1@gmail.com)  
 - **Prefeitura / SAMA:** [Site da Prefeitura](#)  
