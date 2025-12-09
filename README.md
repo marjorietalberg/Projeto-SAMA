@@ -243,7 +243,6 @@ Após acessar sua conta, o usuário tem acesso a duas áreas exclusivas relacion
 ### Minhas Solicitações
 
 Nesta seção, o usuário pode acompanhar todas as solicitações de árvores realizadas na plataforma. Cada solicitação apresenta:
-
 Status do pedido — em análise, aprovada ou concluída.
 
 Endereço informado para recebimento da árvore.
@@ -257,7 +256,6 @@ O objetivo é oferecer transparência e permitir que o usuário acompanhe facilm
 ### Minhas Árvores
 
 Esta página reúne todas as árvores que o usuário já recebeu ou que fazem parte do seu histórico dentro do sistema.
-
 Cada registro inclui: Nome da espécie, Descrição completa
 
 Localização atual
@@ -266,6 +264,45 @@ Quantidade recebida
 
 Informações técnicas, como idade média, altura e características da espécie.Além disso, os dados seguem o mesmo padrão visual utilizado nos cards dos pets, garantindo consistência e uma navegação mais intuitiva.
 
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+  <img src="https://github.com/user-attachments/assets/0a621662-ea90-497d-9032-146724311742" width="400" />
+  <img src="https://github.com/user-attachments/assets/dc6b1ddb-3b89-4dec-ab22-4ee6adf50da4" width="400" />
+</div>
+
+Página de Perfil do Usuário
+
+A página de Perfil permite que cada usuário personalize e gerencie suas próprias informações de forma simples e intuitiva.
+Nessa área, o usuário pode:
+
+ Enviar ou atualizar sua foto de perfil
+ 
+ Editar seus dados pessoais, como:
+
+Nome completo
+
+Email
+
+Telefone
+
+Endereço (opcional)
+
+Informações adicionais
+
+ Alterar senha, se necessário
+
+Todas as alterações são salvas imediatamente no sistema
+
+---
+
+O SAMA foi desenvolvido com o propósito de unir tecnologia, responsabilidade social e cuidado ambiental em uma única plataforma moderna, eficiente e acessível.
+Todo o sistema foi projetado para entregar transparência, organização e segurança tanto no processo de adoção de pets quanto na solicitação e entrega de árvores para a comunidade.
+
+Com uma interface intuitiva, recursos completos e navegação clara, o SAMA se torna uma ferramenta essencial para fortalecer a relação entre cidadãos, ONGs e o setor ambiental do município.
+Cada funcionalidade — desde o cadastro, adoção, acompanhamento, solicitações de árvores até o perfil do usuário — foi pensada com atenção aos mínimos detalhes para garantir uma experiência simples, acolhedora e totalmente confiável.
+
+A construção deste projeto reflete meu compromisso com o desenvolvimento de soluções que realmente fazem a diferença na vida das pessoas e na preservação do meio ambiente. 🌱🐾
+Espero que este sistema inspire iniciativas semelhantes e continue evoluindo para atender cada vez mais as necessidades da comunidade.
 
 ## Contato
 - **E-mail:** [marjorietalberg1@gmail.com](mailto:marjorietalberg1@gmail.com)  
