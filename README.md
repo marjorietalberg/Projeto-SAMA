@@ -105,17 +105,18 @@ A página **Home** é o ponto de entrada do site, apresentando pets disponíveis
 - Contém **mapa de localização** e informações de contato da instituição.  
 
 
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
   <img src="https://github.com/user-attachments/assets/ce9d93c8-c266-453b-8ff0-20a78cb13d6b" width="300" />
   <img src="https://github.com/user-attachments/assets/180da9e9-0e44-40be-b20f-7c33c641c974" width="300" />
   <img src="https://github.com/user-attachments/assets/4521e5cf-2b3f-4432-a182-ad2ba8f00d7a" width="300" />
-</p>
+</div>
 
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github.com/user-attachments/assets/f681160e-69de-4f63-819e-6c7239c25b38" width="300" />
   <img src="https://github.com/user-attachments/assets/5d5ba38e-a9b5-4b0f-aae9-acf570b2b82c" width="300" />
   <img src="https://github.com/user-attachments/assets/abbd24f4-87ab-4664-84e9-ea42e2e3a9ce" width="300" />
-</p>
+</div>
+
 
 ---
 
@@ -148,17 +149,18 @@ A seção de **árvores** do SAMA segue o mesmo modelo da seção de pets, permi
 - **FAQ** com dúvidas frequentes sobre espécies, cuidados e solicitações.  
 - **Rodapé** com mapa de localização e informações de contato da instituição.  
 
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
   <img src="https://github.com/user-attachments/assets/149bb999-06bf-4729-8370-46cfeaaae22b" width="300" />
   <img src="https://github.com/user-attachments/assets/60a3d3da-9115-486c-983b-16775dde0f43" width="300" />
   <img src="https://github.com/user-attachments/assets/e61a0765-e54f-4061-9c38-a47176f68659" width="300" />
-</p>
+</div>
 
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github.com/user-attachments/assets/061b1702-4b7f-4e1e-9367-197eba50f642" width="300" />
   <img src="https://github.com/user-attachments/assets/7c437e4c-5243-4a11-aefa-6f592b1724e3" width="300" />
   <img src="https://github.com/user-attachments/assets/c61ec5cc-f7f6-4c58-8ba6-0ae5dc7099e9" width="300" />
-</p>
+</div>
+
 
 ---
 ## 📝 Cadastro e Login
