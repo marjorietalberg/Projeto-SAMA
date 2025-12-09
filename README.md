@@ -235,6 +235,44 @@ Essa seção funciona como um histórico pessoal de adoções concluídas.
 </p>
 
 
+
+## Minhas Solicitações e Minhas Árvores
+
+Após acessar sua conta, o usuário tem acesso a duas áreas exclusivas relacionadas ao módulo de árvores:
+
+#### Minhas Solicitações
+
+Nesta seção, o usuário pode acompanhar todas as solicitações de árvores realizadas na plataforma. Cada solicitação apresenta:
+
+Status do pedido — em análise, aprovada ou concluída.
+
+Endereço informado para recebimento da árvore.
+
+Detalhes da espécie solicitada.
+
+Data da solicitação.
+
+O objetivo é oferecer transparência e permitir que o usuário acompanhe facilmente o andamento de cada pedido realizado.
+
+#### Minhas Árvores
+
+Esta página reúne todas as árvores que o usuário já recebeu ou que fazem parte do seu histórico dentro do sistema.
+
+Cada registro inclui:
+
+Nome da espécie
+
+Descrição completa
+
+Localização atual
+
+Quantidade recebida
+
+Informações técnicas, como idade média, altura e características da espécie
+
+Além disso, os dados seguem o mesmo padrão visual utilizado nos cards dos pets, garantindo consistência e uma navegação mais intuitiva.
+
+
 ## Contato
 - **E-mail:** [marjorietalberg1@gmail.com](mailto:marjorietalberg1@gmail.com)  
 - **Prefeitura / SAMA:** [Site da Prefeitura](#)  
