@@ -229,6 +229,11 @@ Data da adoção
 
 Essa seção funciona como um histórico pessoal de adoções concluídas.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/93c490f9-31a3-45a3-acb9-827f239c6104" width="48%" />
+  <img src="https://github.com/user-attachments/assets/7085f5af-92aa-4e7b-a184-df54cea10a23" width="48%" />
+</p>
+
 
 ## Contato
 - **E-mail:** [marjorietalberg1@gmail.com](mailto:marjorietalberg1@gmail.com)  
