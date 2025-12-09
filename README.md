@@ -304,6 +304,10 @@ Cada funcionalidade — desde o cadastro, adoção, acompanhamento, solicitaçõ
 A construção deste projeto reflete meu compromisso com o desenvolvimento de soluções que realmente fazem a diferença na vida das pessoas e na preservação do meio ambiente. 🌱🐾
 Espero que este sistema inspire iniciativas semelhantes e continue evoluindo para atender cada vez mais as necessidades da comunidade.
 
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+  <img src="https://github.com/user-attachments/assets/b1267744-9099-4281-b770-0b435f4467be" width="450" />
+</div>
+
 ## Contato
 - **E-mail:** [marjorietalberg1@gmail.com](mailto:marjorietalberg1@gmail.com)  
 - **Prefeitura / SAMA:** [Site da Prefeitura](#)  
