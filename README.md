@@ -176,9 +176,11 @@ O SAMA conta com um sistema de **login e cadastro** para garantir segurança e c
 
 O sistema garante que todas as interações sejam **seguras e organizadas**, permitindo um gerenciamento eficiente de pets e árvores.  
 
-<p align="center">
+
+<p>
   <img src="https://github.com/user-attachments/assets/ddd09a05-b80c-47c2-bf2e-c433734f62a1" width="300" />
 </p>
+
 
 ---
 
@@ -201,9 +203,10 @@ A página de login permite que usuários acessem suas contas de forma **segura e
 
 O sistema de login é a porta de entrada para todas as funcionalidades do SAMA, mantendo o controle e a segurança do processo.
 
-<p align="center">
+<p>
   <img src="https://github.com/user-attachments/assets/941d1430-c4f7-46ae-b717-ae34380f0f30" width="300" />
 </p>
+
 
 
 ## Após o login
