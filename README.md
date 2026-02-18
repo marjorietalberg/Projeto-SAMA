@@ -65,8 +65,6 @@ O foco principal do projeto é garantir transparência, segurança e facilidade 
 - **Testes e API:** Postman  
 
 
-
-
 ## 🐾 Fluxo de Doação e Adoção (Garça Pet)
 
 O **Garça Pet** foi desenvolvido para garantir que o processo de adoção aconteça de forma **organizada, transparente e segura**, conectando ONGs e cidadãos em um fluxo simples e eficiente.
@@ -97,9 +95,7 @@ A funcionalidade ambiental do **SAMA** foi desenvolvida para facilitar o acesso 
 2. **O SAMA analisa o pedido**, verificando critérios como viabilidade, disponibilidade e adequação da solicitação 🌿  
 3. Após aprovação, **o SAMA realiza a entrega** da árvore ou planta diretamente na residência do solicitante 🚚  
 4. **Todo o processo é registrado e monitorado pelo sistema**, garantindo organização, controle e transparência em cada etapa 📋  
-
  Esse fluxo garante uma gestão mais eficiente dos recursos ambientais, fortalecendo iniciativas sustentáveis e beneficiando diretamente a comunidade.
-
 
 ## 🐾 Passo a Passo – Adoção de Pets (Garça Pet)
 
@@ -143,7 +139,6 @@ Essa funcionalidade torna a experiência mais rápida e intuitiva, permitindo qu
   - **mapa de localização**
   - contatos da instituição/ONG
   - dados informativos para suporte ao usuário  
-
 
 
 ## 🌳 Solicitação de Árvores e Plantas (SAMA)
@@ -200,21 +195,15 @@ O SAMA conta com um sistema de **login e cadastro** para garantir segurança e c
 
 O sistema garante que todas as interações sejam **seguras e organizadas**, permitindo um gerenciamento eficiente de pets e árvores.  
 
-
-<p>
-  <img src="https://github.com/user-attachments/assets/ddd09a05-b80c-47c2-bf2e-c433734f62a1" width="300" />
-</p>
-
-
 ---
 
-## 🔐 Página de Login
+## Página de Login
 
 A página de **Login** é responsável por permitir o acesso seguro à plataforma **SAMA**, garantindo que apenas usuários autenticados possam utilizar as funcionalidades disponíveis no sistema.
 
 Essa etapa funciona como a principal porta de entrada para o ambiente interno, assegurando controle, organização e proteção dos dados.
 
-### ✅ Funcionalidades
+### Funcionalidades
 - Autenticação de usuários cadastrados (**Cidadão** ou **ONG**)  
 - Validação de credenciais por **e-mail e senha**  
 - Redirecionamento automático para a **Home** após login bem-sucedido  
@@ -226,7 +215,7 @@ Essa etapa funciona como a principal porta de entrada para o ambiente interno, a
 
 ---
 
-### 🔒 Segurança
+### Segurança
 - Login protegido através de **e-mail e senha**  
 - Restrição de acesso às solicitações e funcionalidades principais apenas para usuários autenticados  
 - Garantia de que as ações realizadas na plataforma sejam registradas com base no usuário logado  
@@ -237,10 +226,7 @@ Essa etapa funciona como a principal porta de entrada para o ambiente interno, a
   <img src="https://github.com/user-attachments/assets/941d1430-c4f7-46ae-b717-ae34380f0f30" width="300" />
 </p>
 
-
-
-
-## ✅ Após o Login
+## Após o Login
 
 Após realizar o login, o usuário passa a ter acesso a novas funcionalidades exclusivas dentro da plataforma.  
 Duas opções adicionais são habilitadas na barra de navegação:
@@ -252,7 +238,7 @@ Essas seções foram desenvolvidas para garantir mais controle, transparência e
 
 ---
 
-### 📋 Minhas Adoções
+### Minhas Adoções
 
 A página **Minhas Adoções** permite que o usuário acompanhe todas as solicitações de adoção realizadas dentro do sistema.
 
@@ -282,8 +268,11 @@ Nesta seção, o usuário pode acessar:
 
 Essa funcionalidade reforça a organização do sistema e permite que o usuário mantenha um registro completo das adoções realizadas.
 
-<img width="945" height="571" alt="Image" src="https://github.com/user-attachments/assets/1b1cb15b-c4b3-4d1a-bef6-53684f8c433f" />](https://github.com/user-attachments/assets/1b1cb15b-c4b3-4d1a-bef6-53684f8c433f)
-
+<div align="center">
+  <img width="32%" alt="Image" src="https://github.com/user-attachments/assets/eb751b3c-9417-4203-a180-1aed267d067f" />
+  <img width="32%" alt="Image" src="https://github.com/user-attachments/assets/9138e033-a8d5-4094-bb48-cb4c5da7f774" />
+  <img width="32%" alt="Image" src="https://github.com/user-attachments/assets/4e558639-bf36-40be-aa64-c1cea820f12b" />
+</div>
 
 
 ## 🌳 Minhas Solicitações e Minhas Árvores
@@ -312,9 +301,6 @@ Cada solicitação apresenta informações detalhadas, como:
 - Endereço informado para entrega
 - Detalhes completos da espécie solicitada
 - Data de registro da solicitação
-
-✨ O objetivo desta funcionalidade é oferecer transparência e permitir que o usuário acompanhe com facilidade o andamento de cada pedido realizado.
-
 ---
 
 ### 🌱 Minhas Árvores
@@ -331,20 +317,6 @@ Cada registro inclui:
   - idade média
   - altura aproximada
   - características gerais da espécie
-
-Além disso, os dados seguem o mesmo padrão visual utilizado nos **cards do módulo Garça Pet**, garantindo consistência no layout e uma navegação mais intuitiva para o usuário.
-
-✨ Essa funcionalidade fortalece o controle do usuário sobre suas solicitações e contribui para uma experiência mais organizada dentro da plataforma.
-
-
-<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
-  <img src="https://github.com/user-attachments/assets/0a621662-ea90-497d-9032-146724311742" width="400" />
-  <img src="https://github.com/user-attachments/assets/dc6b1ddb-3b89-4dec-ab22-4ee6adf50da4" width="400" />
-</div>
-
-
-
-
 
 ---
 
