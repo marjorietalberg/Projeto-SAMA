@@ -4,13 +4,17 @@
 
 # 🐾 SAMA - Sistema de Adoção e Meio Ambiente
 
-SAMA é uma plataforma municipal que une cuidado com animais e gestão ambiental. Aqui, ONGs podem cadastrar pets para doação, cidadãos podem adotar e acompanhar todo o processo de forma segura, e solicitações de árvores ou plantas são analisadas e entregues pelo SAMA diretamente na residência do solicitante. 🌱🐶
+O projeto SAMA é uma plataforma municipal que integra duas frentes importantes para a cidade: adoção responsável de animais e gestão ambiental.
 
----
+Dentro desse sistema, a funcionalidade voltada para adoção é chamada Garça Pet, responsável por centralizar e organizar todo o processo de cadastro e adoção de pets, conectando ONGs e cidadãos de forma segura e eficiente. 🐶🐾
+
+Além disso, o SAMA também conta com uma funcionalidade voltada para o meio ambiente, permitindo solicitações de árvores e plantas, que são analisadas e entregues diretamente ao solicitante. 🌱
+
+
 
 ## 🔖 Sumário
 1. [Sobre o Projeto](#-sobre-o-projeto)  
-2. [Funcionalidades](#-funcionalidades)  
+2. [Funcionalidades](#-Funcionalidades)  
 3. [Como Usar](#-como-usar)  
 4. [Tecnologias Utilizadas](#-tecnologias-utilizadas)  
 5. [Fluxo de Doação e Adoção](#-fluxo-de-doação-e-adoção)
@@ -19,18 +23,23 @@ SAMA é uma plataforma municipal que une cuidado com animais e gestão ambiental
 8. [Contribuição](#-contribuição)  
 9. [Contato](#-contato)  
 
----
 
 ##  Sobre o Projeto
-SAMA foi desenvolvido para melhorar a gestão de recursos municipais, promovendo **adoção de pets e cuidado ambiental**. O sistema permite:
 
-- ONGs cadastrarem pets disponíveis para doação 🐕  
-- Usuários adotarem pets e acompanharem o processo 📋  
-- Solicitação de árvores ou plantas, com análise e entrega realizada pelo SAMA 🌳  
+O SAMA (Sistema de Adoção e Meio Ambiente) foi desenvolvido com o objetivo de modernizar e otimizar a gestão de recursos municipais, unindo tecnologia, responsabilidade social e sustentabilidade em uma única plataforma.
 
-O foco do projeto é **transparência, segurança e facilidade de uso**, garantindo que os recursos cheguem aos destinatários corretos.
+Dentro do projeto, o sistema é dividido em duas funcionalidades principais, sendo elas:
 
----
+🐾 Garça Pet – Sistema de Adoção Responsável
+
+A Garça Pet é a área do sistema voltada exclusivamente para o processo de adoção de animais. Ela permite que ONGs e instituições parceiras cadastrem pets disponíveis para doação, enquanto os cidadãos podem visualizar os animais cadastrados e acompanhar todas as etapas do processo de adoção de forma clara e segura.
+
+🌱 SAMA – Gestão Ambiental e Solicitação de Plantas
+
+Além da adoção, o projeto também contempla a parte ambiental, permitindo que cidadãos realizem solicitações de árvores ou plantas diretamente pela plataforma. Essas solicitações passam por análise e, após aprovadas, a entrega é realizada pelo próprio SAMA na residência do solicitante.
+
+O foco principal do projeto é garantir transparência, segurança e facilidade de uso, oferecendo um sistema eficiente e confiável, assegurando que os recursos municipais sejam direcionados corretamente para quem realmente necessita.
+
 
 ##  Funcionalidades
 - ✅ Cadastro e login para ONGs e cidadãos  
@@ -55,16 +64,22 @@ O foco do projeto é **transparência, segurança e facilidade de uso**, garanti
 - **Backend e Banco de Dados:** MongoDB  
 - **Testes e API:** Postman  
 
----
 
-##  Fluxo de Doação e Adoção
-1. ONG cadastra o pet disponível 🐾  
-2. Usuário solicita a adoção ✉️  
-3. ONG aprova ou recusa a solicitação ✅❌  
-4. Usuário acompanha se a doação está sendo realizada corretamente 👀  
-5. Processo finalizado quando o pet é oficialmente doado 🎉
 
----
+
+## 🐾 Fluxo de Doação e Adoção (Garça Pet)
+
+O **Garça Pet** foi desenvolvido para garantir que o processo de adoção aconteça de forma **organizada, transparente e segura**, conectando ONGs e cidadãos em um fluxo simples e eficiente.
+
+📌 O processo funciona da seguinte forma:
+
+1. **A ONG cadastra o pet** disponível para adoção no sistema 🐾  
+2. **O usuário realiza a solicitação de adoção** diretamente pela plataforma ✉️  
+3. **A ONG avalia a solicitação** e decide entre **aprovar ou recusar** o pedido ✅❌  
+4. **O usuário acompanha o andamento** e verifica se o processo está ocorrendo corretamente 👀  
+5. **A adoção é finalizada** quando o pet é oficialmente doado e o status é atualizado no sistema 🎉  
+
+Esse fluxo garante mais controle para as ONGs e mais confiança para quem deseja adotar, promovendo uma adoção responsável e bem estruturada.
 
 ##  Solicitação e Entrega de Árvores
 1. Usuário solicita uma árvore ou planta 🌱  
@@ -72,95 +87,104 @@ O foco do projeto é **transparência, segurança e facilidade de uso**, garanti
 3. O SAMA realiza a entrega da árvore ou planta diretamente na residência do solicitante 🚚  
 4. Todo o processo é monitorado pelo sistema para garantir organização e transparência  
 
+## 🌱 Solicitação e Entrega de Árvores e Plantas (SAMA)
+
+A funcionalidade ambiental do **SAMA** foi desenvolvida para facilitar o acesso da população a ações sustentáveis, promovendo arborização urbana e incentivo ao cuidado com o meio ambiente.
+
+### 📌 Etapas do Processo
+
+1. **O usuário realiza a solicitação** de uma árvore ou planta diretamente pela plataforma 🌱  
+2. **O SAMA analisa o pedido**, verificando critérios como viabilidade, disponibilidade e adequação da solicitação 🌿  
+3. Após aprovação, **o SAMA realiza a entrega** da árvore ou planta diretamente na residência do solicitante 🚚  
+4. **Todo o processo é registrado e monitorado pelo sistema**, garantindo organização, controle e transparência em cada etapa 📋  
+
+ Esse fluxo garante uma gestão mais eficiente dos recursos ambientais, fortalecendo iniciativas sustentáveis e beneficiando diretamente a comunidade.
+
+
+## 🐾 Passo a Passo – Adoção de Pets (Garça Pet)
+
+A página **Home** é o ponto de entrada do sistema **Garça Pet**, apresentando os principais recursos da plataforma e facilitando a visualização dos pets disponíveis para adoção.
+
+### 🐶 Pets Disponíveis e Adotados
+- Cada pet é exibido em **cards informativos**, contendo foto, nome e dados essenciais.  
+- Os pets podem ser separados por categorias como **disponíveis** e **já adotados**, garantindo uma navegação mais organizada.  
+- Ao clicar em **"Mais Detalhes"**, o usuário acessa informações completas como:
+  - idade  
+  - raça  
+  - gênero  
+  - porte  
+  - cor  
+  - histórico do animal  
+  - cuidados necessários  
+
+### 🎯 Missão, Impacto e Como Ajudar
+A página também conta com uma área institucional que fortalece a conscientização sobre adoção responsável:
+
+- **Missão:** apresenta o propósito do projeto e reforça a importância do cuidado com os animais.  
+- **Impacto:** exibe resultados obtidos, como quantidade de adoções realizadas e benefícios gerados para a comunidade.  
+- **Como Ajudar:** orienta como contribuir com o projeto, seja através de adoção, doações ou trabalho voluntário.  
+
+### 🔎 Sistema de Pesquisa e Filtros
+Para facilitar a busca pelo pet ideal, o sistema oferece um mecanismo de pesquisa eficiente, permitindo filtrar pets por:
+
+- **nome**  
+- **gênero**  
+- **raça**  
+- **porte**  
+- **cor**  
+
+Essa funcionalidade torna a experiência mais rápida e intuitiva, permitindo que o usuário encontre facilmente o animal desejado.
+
+### ❓ FAQ (Perguntas Frequentes)
+- Sessão dedicada a dúvidas comuns sobre o processo de adoção, critérios de aprovação e cuidados necessários com os pets.  
+
+### 📍 Rodapé
+- Contém informações adicionais como:
+  - **mapa de localização**
+  - contatos da instituição/ONG
+  - dados informativos para suporte ao usuário  
+
+
+
+## 🌳 Solicitação de Árvores e Plantas (SAMA)
+
+A seção de **Árvores e Plantas** do **SAMA** foi desenvolvida com o objetivo de facilitar o acesso da população a iniciativas sustentáveis, promovendo arborização urbana e incentivo ao cuidado com o meio ambiente.
+
+Essa funcionalidade segue o mesmo padrão da seção de pets, oferecendo uma experiência intuitiva, organizada e acessível, permitindo que o usuário explore espécies disponíveis, solicite mudas e acompanhe as informações necessárias para o plantio correto.
+
 ---
 
-##  Contribuição
-Contribuições são bem-vindas!  
-- Abra **issues** para bugs ou melhorias  
-- Crie **pull requests** para novas funcionalidades  
-- Documente seu código de forma clara e objetiva
+### 🌱 Árvores Disponíveis
+- As árvores e plantas são exibidas diretamente na página **Home**, organizadas em **cards informativos**.  
+- Cada card apresenta informações resumidas da espécie, facilitando a navegação e escolha do usuário.  
+- Ao clicar em **"Mais Detalhes"**, o usuário acessa informações completas sobre a árvore/planta, incluindo:
+  - descrição detalhada  
+  - localização/disponibilidade  
+  - cuidados necessários  
+  - observações adicionais  
 
 ---
 
-## Passo a Passo – Adoção de Pets
+### 📩 Solicitação de Árvores
+- Para realizar uma solicitação, é necessário que o usuário esteja **logado no sistema**, garantindo mais segurança e controle.  
+- O formulário de solicitação registra dados essenciais para o processo de entrega, como:
+  - nome do solicitante  
+  - endereço completo para entrega  
+  - espécie desejada  
+  - quantidade solicitada  
 
-A página **Home** é o ponto de entrada do site, apresentando pets disponíveis, já adotados e funcionalidades principais:
-
-### Pets Disponíveis e Adotados
-- Cada pet é exibido em **cards** com foto, nome e informações básicas.  
-- Ao clicar em **"Mais Detalhes"**, é possível acessar idade, raça, gênero, histórico e cuidados necessários.  
-
-### Missão, Impacto e Como Ajudar
-- **Missão:** explica o propósito do projeto e a importância da adoção responsável.  
-- **Impacto:** mostra dados sobre adoções realizadas e resultados alcançados.  
-- **Como Ajudar:** instruções sobre como contribuir, seja adotando, doando ou se voluntariando.  
-
-### Sistema de Pesquisa
-- Busca por **nome**, **gênero** ou **raça** para encontrar rapidamente o pet desejado.
-  
-### FAQ
-- Sessão com perguntas frequentes sobre o processo de adoção e cuidados com pets.  
-
-### Rodapé
-- Contém **mapa de localização** e informações de contato da instituição.  
+- Após o envio, o **SAMA realiza a análise da solicitação**, verificando viabilidade, disponibilidade e organização da entrega.
 
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
-  <img src="https://github.com/user-attachments/assets/ce9d93c8-c266-453b-8ff0-20a78cb13d6b" width="300" />
-  <img src="https://github.com/user-attachments/assets/180da9e9-0e44-40be-b20f-7c33c641c974" width="300" />
-  <img src="https://github.com/user-attachments/assets/4521e5cf-2b3f-4432-a182-ad2ba8f00d7a" width="300" />
-</div>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github.com/user-attachments/assets/f681160e-69de-4f63-819e-6c7239c25b38" width="300" />
-  <img src="https://github.com/user-attachments/assets/5d5ba38e-a9b5-4b0f-aae9-acf570b2b82c" width="300" />
-  <img src="https://github.com/user-attachments/assets/abbd24f4-87ab-4664-84e9-ea42e2e3a9ce" width="300" />
-</div>
+### ⚙️ Funcionalidades da Seção Ambiental
+- 🔐 **Sistema de Login**, garantindo segurança e identificação do solicitante  
+- 🧾 **Cards informativos**, exibindo árvores disponíveis de forma organizada  
+- 📌 **Detalhes completos**, acessíveis através do botão *"Mais Detalhes"*  
+- ❓ **FAQ**, com perguntas frequentes sobre espécies, plantio e cuidados necessários  
+- 📍 **Rodapé institucional**, contendo mapa de localização e informações de contato da instituição  
 
-
----
-
-## 🌳  Solicitação de Árvores
-
-A seção de **árvores** do SAMA segue o mesmo modelo da seção de pets, permitindo que usuários explorem árvores disponíveis, solicitem a entrega e acessem informações detalhadas de cada espécie.
-
-### Árvores Disponíveis
-- As árvores são exibidas  na página Home
-
-- Ao clicar em **"Mais Detalhes"**, o usuário acessa informações completas de cada árvore, incluindo:  
-  - Descrição detalhada  
-  - Localização  
-  - Cuidados necessários  
-  - Observações adicionais  
-
-### Solicitação de Árvores
-- Para solicitar uma árvore, é necessário **estar logado**.  
-- O formulário de solicitação pede:  
-  - Nome do solicitante  
-  - Endereço de entrega  
-  - Espécie e quantidade desejada  
-
-- O SAMA analisa cada solicitação para garantir viabilidade e organização da entrega.
-
-### Funcionalidades
-- **Sistema de login** para segurança do usuário.  
-- **Cards** com informações resumidas das árvores.  
-- **Detalhes completos** ao clicar em cada árvore.  
-- **FAQ** com dúvidas frequentes sobre espécies, cuidados e solicitações.  
-- **Rodapé** com mapa de localização e informações de contato da instituição.  
-
-<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
-  <img src="https://github.com/user-attachments/assets/149bb999-06bf-4729-8370-46cfeaaae22b" width="300" />
-  <img src="https://github.com/user-attachments/assets/60a3d3da-9115-486c-983b-16775dde0f43" width="300" />
-  <img src="https://github.com/user-attachments/assets/e61a0765-e54f-4061-9c38-a47176f68659" width="300" />
-</div>
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github.com/user-attachments/assets/061b1702-4b7f-4e1e-9367-197eba50f642" width="300" />
-  <img src="https://github.com/user-attachments/assets/7c437e4c-5243-4a11-aefa-6f592b1724e3" width="300" />
-  <img src="https://github.com/user-attachments/assets/c61ec5cc-f7f6-4c58-8ba6-0ae5dc7099e9" width="300" />
-</div>
-
+✨ Essa funcionalidade fortalece ações ambientais no município, garantindo mais transparência, controle e eficiência no processo de solicitação e entrega de mudas.
 
 ---
 ## 📝 Cadastro e Login
@@ -186,51 +210,77 @@ O sistema garante que todas as interações sejam **seguras e organizadas**, per
 
 ## 🔐 Página de Login
 
-A página de login permite que usuários acessem suas contas de forma **segura e rápida**.  
+A página de **Login** é responsável por permitir o acesso seguro à plataforma **SAMA**, garantindo que apenas usuários autenticados possam utilizar as funcionalidades disponíveis no sistema.
 
-### Funcionalidades
-- Autenticação de usuários cadastrados (Cidadão ou ONG)  
-- Redirecionamento para a Home após login bem-sucedido  
-- Acesso às funcionalidades de:  
-  - Solicitação de adoção de pets  
-  - Solicitação de árvores  
-  - Visualização de detalhes completos de pets e árvores  
-  - Acompanhamento do status das solicitações  
+Essa etapa funciona como a principal porta de entrada para o ambiente interno, assegurando controle, organização e proteção dos dados.
 
-### Segurança
-- Login protegido por **e-mail e senha**  
-- Garantia de que apenas usuários autenticados possam realizar solicitações  
+### ✅ Funcionalidades
+- Autenticação de usuários cadastrados (**Cidadão** ou **ONG**)  
+- Validação de credenciais por **e-mail e senha**  
+- Redirecionamento automático para a **Home** após login bem-sucedido  
+- Liberação de acesso às funcionalidades restritas do sistema, como:
+  - solicitação de adoção de pets 🐾  
+  - solicitação de árvores e plantas 🌱  
+  - visualização de detalhes completos de pets e espécies cadastradas 📋  
+  - acompanhamento do status das solicitações enviadas 📌  
 
-O sistema de login é a porta de entrada para todas as funcionalidades do SAMA, mantendo o controle e a segurança do processo.
+---
 
+### 🔒 Segurança
+- Login protegido através de **e-mail e senha**  
+- Restrição de acesso às solicitações e funcionalidades principais apenas para usuários autenticados  
+- Garantia de que as ações realizadas na plataforma sejam registradas com base no usuário logado  
+
+ O sistema de login é essencial para manter a integridade do SAMA, garantindo mais segurança, confiabilidade e transparência em todos os processos.
+ 
 <p>
   <img src="https://github.com/user-attachments/assets/941d1430-c4f7-46ae-b717-ae34380f0f30" width="300" />
 </p>
 
 
 
-## Após o login
 
-Após realizar o login, o usuário passa a visualizar duas novas opções na barra de navegação: Minhas Adoções e Meus Pets.
+## ✅ Após o Login
 
-### Minhas Adoções
+Após realizar o login, o usuário passa a ter acesso a novas funcionalidades exclusivas dentro da plataforma.  
+Duas opções adicionais são habilitadas na barra de navegação:
 
-Esta página permite acompanhar todas as solicitações de adoção feitas pelo usuário, apresentando: **O status atualizado do processo (em análise, em andamento ou concluído)**
+- **Minhas Adoções**
+- **Meus Pets**
 
-As informações do pet solicitado: Os dados do responsável que disponibilizou o pet para adoção
+Essas seções foram desenvolvidas para garantir mais controle, transparência e organização durante o processo de adoção.
 
-O objetivo é oferecer transparência e controle sobre cada etapa da adoção.
+---
 
-### Meus Pets
+### 📋 Minhas Adoções
 
-Nesta página, o usuário tem acesso a todos os pets que já foram adotados por ele, podendo visualizar:
-Foto, nome e raça
+A página **Minhas Adoções** permite que o usuário acompanhe todas as solicitações de adoção realizadas dentro do sistema.
 
-Informações gerais do pet
+Nela, é possível visualizar:
 
-Data da adoção
+- **Status atualizado da solicitação**, podendo estar como:
+  - *Em análise*
+  - *Em andamento*
+  - *Concluído*
+- Informações completas do pet solicitado
+- Dados da ONG ou responsável que disponibilizou o animal para adoção
 
-Essa seção funciona como um histórico pessoal de adoções concluídas.
+✨ O objetivo desta funcionalidade é oferecer maior transparência e permitir que o usuário acompanhe cada etapa do processo com clareza e segurança.
+
+---
+
+### 🐾 Meus Pets
+
+A página **Meus Pets** funciona como um histórico pessoal de adoções concluídas, reunindo todos os animais que já foram adotados pelo usuário.
+
+Nesta seção, o usuário pode acessar:
+
+- Foto do pet
+- Nome e raça
+- Informações gerais do animal
+- Data oficial da adoção
+
+✨ Essa funcionalidade reforça a organização do sistema e permite que o usuário mantenha um registro completo das adoções realizadas.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/93c490f9-31a3-45a3-acb9-827f239c6104" width="48%" />
@@ -239,33 +289,56 @@ Essa seção funciona como um histórico pessoal de adoções concluídas.
 
 
 
-## Minhas Solicitações e Minhas Árvores
 
-Após acessar sua conta, o usuário tem acesso a duas áreas exclusivas relacionadas ao módulo de árvores:
+## 🌳 Minhas Solicitações e Minhas Árvores
 
-### Minhas Solicitações
+Após acessar sua conta, o usuário passa a ter acesso a duas áreas exclusivas relacionadas ao módulo ambiental do **SAMA**, voltadas para controle e acompanhamento das solicitações de árvores e plantas.
 
-Nesta seção, o usuário pode acompanhar todas as solicitações de árvores realizadas na plataforma. Cada solicitação apresenta:
-Status do pedido — em análise, aprovada ou concluída.
+As opções liberadas na navegação são:
 
-Endereço informado para recebimento da árvore.
+- **Minhas Solicitações**
+- **Minhas Árvores**
 
-Detalhes da espécie solicitada.
+Essas seções foram desenvolvidas para garantir mais transparência, organização e facilidade no acompanhamento dos pedidos realizados.
 
-Data da solicitação.
+---
 
-O objetivo é oferecer transparência e permitir que o usuário acompanhe facilmente o andamento de cada pedido realizado.
+### 📩 Minhas Solicitações
 
-### Minhas Árvores
+A página **Minhas Solicitações** permite que o usuário acompanhe todas as solicitações de árvores e plantas registradas na plataforma.
 
-Esta página reúne todas as árvores que o usuário já recebeu ou que fazem parte do seu histórico dentro do sistema.
-Cada registro inclui: Nome da espécie, Descrição completa
+Cada solicitação apresenta informações detalhadas, como:
 
-Localização atual
+- **Status atualizado do pedido**, podendo estar como:
+  - *Em análise*
+  - *Aprovada*
+  - *Concluída*
+- Endereço informado para entrega
+- Detalhes completos da espécie solicitada
+- Data de registro da solicitação
 
-Quantidade recebida
+✨ O objetivo desta funcionalidade é oferecer transparência e permitir que o usuário acompanhe com facilidade o andamento de cada pedido realizado.
 
-Informações técnicas, como idade média, altura e características da espécie.Além disso, os dados seguem o mesmo padrão visual utilizado nos cards dos pets, garantindo consistência e uma navegação mais intuitiva.
+---
+
+### 🌱 Minhas Árvores
+
+A página **Minhas Árvores** reúne todas as árvores e plantas que o usuário já recebeu, funcionando como um histórico completo dentro do sistema.
+
+Cada registro inclui:
+
+- Nome da espécie
+- Descrição completa
+- Localização atual
+- Quantidade recebida
+- Informações técnicas adicionais, como:
+  - idade média
+  - altura aproximada
+  - características gerais da espécie
+
+Além disso, os dados seguem o mesmo padrão visual utilizado nos **cards do módulo Garça Pet**, garantindo consistência no layout e uma navegação mais intuitiva para o usuário.
+
+✨ Essa funcionalidade fortalece o controle do usuário sobre suas solicitações e contribui para uma experiência mais organizada dentro da plataforma.
 
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
@@ -273,31 +346,9 @@ Informações técnicas, como idade média, altura e características da espéci
   <img src="https://github.com/user-attachments/assets/dc6b1ddb-3b89-4dec-ab22-4ee6adf50da4" width="400" />
 </div>
 
-Página de Perfil do Usuário
 
-A página de Perfil permite que cada usuário personalize e gerencie suas próprias informações de forma simples e intuitiva.
-Nessa área, o usuário pode:
- Enviar ou atualizar sua foto de perfil
- 
- Editar seus dados pessoais, como:
 
-Nome completo
 
-Email
-
-Telefone
-
-Endereço (opcional)
-
-Informações adicionais
-
- Alterar senha, se necessário
-
-Todas as alterações são salvas imediatamente no sistema
-
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <img src="https://github.com/user-attachments/assets/b1267744-9099-4281-b770-0b435f4467be" width="450" />
-</div>
 
 ---
 
