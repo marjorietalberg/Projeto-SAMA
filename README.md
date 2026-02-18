@@ -222,9 +222,7 @@ Essa etapa funciona como a principal porta de entrada para o ambiente interno, a
 
  O sistema de login é essencial para manter a integridade do SAMA, garantindo mais segurança, confiabilidade e transparência em todos os processos.
  
-<p>
-  <img src="https://github.com/user-attachments/assets/941d1430-c4f7-46ae-b717-ae34380f0f30" width="300" />
-</p>
+
 
 ## Após o Login
 
@@ -267,12 +265,6 @@ Nesta seção, o usuário pode acessar:
 - Data oficial da adoção
 
 Essa funcionalidade reforça a organização do sistema e permite que o usuário mantenha um registro completo das adoções realizadas.
-
-<div align="center">
-  <img width="32%" alt="Image" src="https://github.com/user-attachments/assets/eb751b3c-9417-4203-a180-1aed267d067f" />
-  <img width="32%" alt="Image" src="https://github.com/user-attachments/assets/9138e033-a8d5-4094-bb48-cb4c5da7f774" />
-  <img width="32%" alt="Image" src="https://github.com/user-attachments/assets/4e558639-bf36-40be-aa64-c1cea820f12b" />
-</div>
 
 
 ## 🌳 Minhas Solicitações e Minhas Árvores
@@ -330,10 +322,10 @@ A construção deste projeto reflete meu compromisso com o desenvolvimento de so
 Espero que este sistema inspire iniciativas semelhantes e continue evoluindo para atender cada vez mais as necessidades da comunidade.
 
 
+## 🎥 Demonstração do Sistema – SAMA
 
-## Contato
-- **E-mail:** [marjorietalberg1@gmail.com](mailto:marjorietalberg1@gmail.com)  
-- **Prefeitura / SAMA:** [Site da Prefeitura](#)  
+▶️ Assista ao vídeo completo de demonstração do sistema:  
+🔗 https://youtu.be/yM_K3cY70QU
 
 ---
 
