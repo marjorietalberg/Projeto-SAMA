@@ -265,7 +265,7 @@ Nela, é possível visualizar:
 - Informações completas do pet solicitado
 - Dados da ONG ou responsável que disponibilizou o animal para adoção
 
-✨ O objetivo desta funcionalidade é oferecer maior transparência e permitir que o usuário acompanhe cada etapa do processo com clareza e segurança.
+ O objetivo desta funcionalidade é oferecer maior transparência e permitir que o usuário acompanhe cada etapa do processo com clareza e segurança.
 
 ---
 
@@ -280,13 +280,9 @@ Nesta seção, o usuário pode acessar:
 - Informações gerais do animal
 - Data oficial da adoção
 
-✨ Essa funcionalidade reforça a organização do sistema e permite que o usuário mantenha um registro completo das adoções realizadas.
+Essa funcionalidade reforça a organização do sistema e permite que o usuário mantenha um registro completo das adoções realizadas.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/93c490f9-31a3-45a3-acb9-827f239c6104" width="48%" />
-  <img src="https://github.com/user-attachments/assets/7085f5af-92aa-4e7b-a184-df54cea10a23" width="48%" />
-</p>
-
+<img width="945" height="571" alt="Image" src="https://github.com/user-attachments/assets/1b1cb15b-c4b3-4d1a-bef6-53684f8c433f" />](https://github.com/user-attachments/assets/1b1cb15b-c4b3-4d1a-bef6-53684f8c433f)
 
 
 
